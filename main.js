@@ -1,5 +1,5 @@
 "use strict";
-//getAnimeGenres of jikan APIv4 
+//getAnimeGenres of jikan APIv4
 //get animes of jikan APIv4
 const anime = document.getElementById("anime");
 
